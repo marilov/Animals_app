@@ -1,5 +1,9 @@
 package com.sokyrko;
 
+/**
+ * This class contains information about animal types and names.
+ */
+
 public class AnimalManager {
 
     String animaltype = "cat";
